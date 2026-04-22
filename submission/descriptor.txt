@@ -1,0 +1,1 @@
+wpkh([76a62bfa/84h/1h/0h]tpubDDZJvZRLpBPuHhZiLNjUDgrB8PRgzw7Pjadk4P7pcP1KBjvT5S4skguQ2NvFr8ynpAkmkKCnUgc6BYTdsVAhWCKTNUtg5tzqtjorNShJcaQ/0/*)#xvf00cts
